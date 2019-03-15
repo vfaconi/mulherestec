@@ -1,2 +1,2 @@
 # mulherestec
-Terceiro projeto do curso de Front End Nv 1 do Desprograme: usar o bootstrap no desenvolvimento no site
+Terceiro projeto do curso de Front End Nv 1 do Desprograme: usar o bootstrap no desenvolvimento do site
