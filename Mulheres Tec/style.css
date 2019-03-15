@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/* change the background color */
+.navbar-custom {
+    background-color: #f95738;
+}
+
+/* change the brand and text color navbar*/
+.container {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+/*Links para as páginas de cada mulher*/
+.rounded {
+	width: 300px;
+    height: 250px;
+}
+
+a {
+    color:  #002E5D;
+    font-size: 20px;
+}
+
+h1{
+    color:  #002E5D;
+    font-size: 25px;
+}
+
+/*Texto sobre o site*/
+.text-justify {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/*Videos*/
+.col-8 {
+    display: block;
+	margin: auto;
+}
+
+.footer navbar-fixed-bottom {
+    font-size: 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+
+
